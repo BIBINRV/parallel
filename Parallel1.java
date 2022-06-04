@@ -10,8 +10,8 @@ public class Parallel1 {
 		System.out.println("TC1:"+Thread.currentThread().getId());
 	}
 	@Test
-	public void Testcase2() {
-		System.out.println("TC2:"+Thread.currentThread().getId());
+	public void Testcase5() {
+		System.out.println("TC5:"+Thread.currentThread().getId());
 	}
 	@Test
 	public void Testcase3() {
